@@ -2,7 +2,7 @@
 
 I'm an MSc student in Informatics at the University of Oslo, specialising in programming and systems architecture, and a teaching assistant in IN2031.
 
-I enjoy learning by building things: Android apps, web applications, and anything i find interesting. Before studying computer science, I completed a bachelor's degree combining political science and economics at NTNU.
+I enjoy learning by building things: iOS, macOS and Android apps, web applications, and anything I find interesting. Before studying computer science, I completed a bachelor's degree combining political science and economics at NTNU.
 
 ### Currently
 
@@ -11,6 +11,12 @@ I enjoy learning by building things: Android apps, web applications, and anythin
 - 👨‍🏫 Helping students build domain-specific languages with ANTLR and develop their software architecture skills in the course IN2031.
 
 ### Selected projects
+
+**[Bloom](https://github.com/jonesstoen/bloom)** · Swift, SwiftUI, Swift Concurrency, OpenAPI  
+A native iPhone client for the self-hosted photo service Immich that looks and feels like Apple's Photos app on iOS 26. Smart search, memories, map, people, Live Photos and background backup. I use it every day with my own server.
+
+**[MiniChat](https://github.com/jonesstoen/MiniChat)** · Swift, SwiftUI, AppKit, WebKit  
+A floating ChatGPT and Claude window for macOS that opens with Option+Space and uses the subscriptions you already have.
 
 **[FiskeKlar](https://github.com/jonesstoen/FiskeKlar)** · Kotlin, Jetpack Compose, MapLibre, Room  
 An Android app for marine weather, live vessel tracking and catch logging. I took the lead on architecture and development in our IN2000 team. The project was nominated for the MET Prize in 2025.
